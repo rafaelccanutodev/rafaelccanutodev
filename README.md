@@ -31,7 +31,7 @@
 
 ### 📌 Projetos em Destaque
 
-🔹 **[CRUD em Python e Django](https://github.com/rafaelccanutodev/app-compras-mensais](https://github.com/rafaelccanutodev/Crud-em-Django))**  
+🔹 **[CRUD em Python e Django](https://github.com/rafaelccanutodev/Crud-em-Django)**  
 CRUD com a linguagem Python e o framework Django
 
 🔹 **[Portfolio](https://github.com/rafaelccanutodev/portfolio-2.0)**  
