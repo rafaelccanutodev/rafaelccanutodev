@@ -31,14 +31,14 @@
 
 ### 📌 Projetos em Destaque
 
-🔹 **[Sistema de Compras Mensais](https://github.com/rafaelccanutodev/app-compras-mensais)**  
-App em React Native para controle de compras com cadastro de itens e futuras funcionalidades como leitura via código de barras.
+🔹 **[CRUD em Python e Django]([https://github.com/rafaelccanutodev/app-compras-mensais](https://github.com/rafaelccanutodev/Crud-em-Django))**  
+CRUD com a linguagem Python e o framework Django
 
-🔹 **[Canuto Info - Sistema de Assistência Técnica](https://github.com/rafaelccanutodev)**  
-Sistema interno de atendimento para loja de manutenção de celulares e computadores.
+🔹 **[Portfolio](https://github.com/rafaelccanutodev/portfolio-2.0)**  
+Portfólio desenvolvido com React JS
 
-🔹 **[Scripts PowerShell e Python para Automação](https://github.com/rafaelccanutodev/scripts-powershell)**  
-Automatizações corporativas com foco em AD, rede, e tarefas repetitivas de TI.
+🔹 **[Cadastro de Usuários](https://github.com/rafaelccanutodev/Cadastro-de-Usuario)**  
+Sistema de cadastro de usuários desenvolvido em React JS.
 
 ---
 
