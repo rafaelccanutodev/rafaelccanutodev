@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Analista de TI | Desenvolvedor Web & Mobile<br>
-  🎯 Focado em desenvolvimento Full Stack, automações e soluções inteligentes.
+  🎯 Focado em desenvolvimento FullStack.
 </p>
 
 ---
