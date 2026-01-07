@@ -51,8 +51,7 @@ Com uma trajetória sólida em **Suporte de TI e Infraestrutura**, estou canaliz
 
 | Projeto | Descrição | Tech Stack |
 | --- | --- | --- |
-| **[Nome do Projeto]** | Descrição breve da solução desenvolvida em Python/Django. | Python, Django, PostgreSQL |
-| **[Scripts de Automação]** | Conjunto de scripts para gestão de infraestrutura e usuários. | PowerShell |
+| **[Sistema de cadastro de carros]** | Aplicação web desenvolvida em Django para gerenciar informações de veículos com funcionalidades CRUD (Criar, Ler, Atualizar e Deletar). | Python, Django, MySQL |
 
 ---
 
