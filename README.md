@@ -1,46 +1,58 @@
 <h1 align="center">👋 Olá! Eu sou o Rafael Canuto</h1>
 
 <p align="center">
-  💻 Analista de TI em evolução | Focado em C# e .NET<br>
-  🔧 Transição de Suporte Técnico para Desenvolvedor Back-End / Infra & DevOps
+  💻 <strong>Software Developer | Infraestrutura & DevOps</strong><br>
+  Focado em Python, Django e na modernização de ambientes através de automação.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-canuto-ti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5548996941150">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Sobre Mim
 
-#### 💡 **Back-End**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+Com uma trajetória sólida em **Suporte de TI e Infraestrutura**, estou canalizando minha experiência para o **Desenvolvimento Back-End e DevOps**. Unindo o conhecimento de operações com o desenvolvimento de software, busco criar soluções eficientes, escaláveis e automatizadas.
 
-#### 🛢️ **Banco de Dados**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
-#### ⚙️ **Infraestrutura & Automação**
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-#### 🌐 **Outras tecnologias**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+- 🔭 Atualmente desenvolvendo aplicações e APIs com **Python e Django**.
+- ⚙️ Experiência prática em automação com **PowerShell** e gestão de servidores Windows/Linux.
+- 🐳 Focado em containerização (Docker) para otimizar o deploy de aplicações.
 
 ---
 
-### 📌 Projetos em Destaque (C# / .NET)
+### 🛠️ Tecnologias e Ferramentas
 
-🔹 **Cinetrack (C# .NET Console App)**  
-Sistema de cadastro e avaliação de filmes usando Dictionary, tuplas e LINQ.  
-➡️ *Projeto novo? Me manda o repositório que incluo aqui.*
+#### 💡 **Back-End**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+#### 🛢️ **Banco de Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
+#### ⚙️ **Infraestrutura & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tech Stack |
+| --- | --- | --- |
+| **[Nome do Projeto]** | Descrição breve da solução desenvolvida em Python/Django. | Python, Django, PostgreSQL |
+| **[Scripts de Automação]** | Conjunto de scripts para gestão de infraestrutura e usuários. | PowerShell |
 
 ---
 
@@ -55,12 +67,12 @@ Sistema de cadastro e avaliação de filmes usando Dictionary, tuplas e LINQ.
 
 ### 📫 Contato
 
-- 📧 **rafaelccanuto@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-canuto-ti/)  
+- 📧 **rafaelccanuto@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-canuto-ti/)
 - 📱 [WhatsApp](https://wa.me/5548996941150)
 
 ---
 
 <p align="center">
-  Feito por Rafael Canuto • Evoluindo diariamente com C# e .NET
+  Feito por Rafael Canuto • Evoluindo a cada linha de código
 </p>
