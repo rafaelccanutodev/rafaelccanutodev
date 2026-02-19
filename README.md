@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá! Eu sou o Rafael Canuto</h1>
 
 <p align="center">
-  💻 <strong>Software Developer | Infraestrutura & DevOps</strong><br>
-  Focado em Python, Django e na modernização de ambientes através de automação.
+  💻 <strong>Desenvolvedor Front-end Jr | React • JavaScript • Tailwind • HTML • CSS</strong><br>
+  Background sólido em TI | Ex-Analista de TI em transição estruturada para Desenvolvimento Web
 </p>
 
 <p align="center">
@@ -18,40 +18,32 @@
 
 ### 🚀 Sobre Mim
 
-Com uma trajetória sólida em **Suporte de TI e Infraestrutura**, estou canalizando minha experiência para o **Desenvolvimento Back-End e DevOps**. Unindo o conhecimento de operações com o desenvolvimento de software, busco criar soluções eficientes, escaláveis e automatizadas.
+Sou **Desenvolvedor Front-end Jr**, com background sólido em TI e experiência anterior como **Analista de TI**, focado na criação de **interfaces modernas, performáticas e responsivas** utilizando **React.js**.
 
-- 🔭 Atualmente desenvolvendo aplicações e APIs com **Python e Django**.
-- ⚙️ Experiência prática em automação com **PowerShell** e gestão de servidores Windows/Linux.
-- 🐳 Focado em containerização (Docker) para otimizar o deploy de aplicações.
+Possuo forte capacidade de resolução de problemas, visão sistêmica de software e experiência prática com **componentização, consumo de APIs REST, versionamento com Git e boas práticas de desenvolvimento web**.
+
+- 🔭 Atualmente desenvolvendo aplicações web modernas com **React.js e Tailwind CSS**
+- 🎯 Foco em **componentização, performance, responsividade e UX**
+- 🔄 Experiência com consumo de **APIs REST**
+- 🧠 Background em infraestrutura e suporte, agregando visão técnica completa
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-#### 💡 **Back-End**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+#### 💡 **Front-end**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-#### 🛢️ **Banco de Dados**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-#### ⚙️ **Infraestrutura & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+#### ⚙️ **Ferramentas & Versionamento**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
-### 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tech Stack |
-| --- | --- | --- |
-| **Sistema de cadastro de carros** | Aplicação web desenvolvida em Django para gerenciar informações de veículos com funcionalidades CRUD (Criar, Ler, Atualizar e Deletar). | Python, Django, MySQL |
+#### 🛢️ **Back-end (apoio)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -73,5 +65,5 @@ Com uma trajetória sólida em **Suporte de TI e Infraestrutura**, estou canaliz
 ---
 
 <p align="center">
-  Feito por Rafael Canuto • Evoluindo a cada linha de código
+  Feito por Rafael Canuto • Em evolução constante 🚀
 </p>
