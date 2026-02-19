@@ -45,14 +45,6 @@ Possuo forte capacidade de resolução de problemas, visão sistêmica de softwa
 #### 🛢️ **Back-end (apoio)**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelccanutodev&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelccanutodev&layout=compact&theme=tokyonight" />
-</div>
 
 ---
 
